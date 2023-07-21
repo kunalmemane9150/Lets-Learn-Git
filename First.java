@@ -4,6 +4,6 @@ class First {
 
         int sum = a + b;
 
-        System.out.println("Sum of two " + a + " and " + b + " is: " + sum);
+        System.out.println("Sum of " + a + " and " + b + " is: " + sum);
     }
 }
